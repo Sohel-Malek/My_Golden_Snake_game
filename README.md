@@ -11,7 +11,7 @@ OR
 
 Dont Delete Any Files.. IT MAY CRASH THE GAME!
 
-Start The Game Using GoldenSnake.exe File from dist!
+Start The Game Using GoldenSnake.exe File from (dist folder)!
 
 Cheats
 Press Q to add extra 50 points. 😄
